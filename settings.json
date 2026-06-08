@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlueRainbow.aternos.me",
+    "ip": "CrystalStormSMP.aternos.me",
     "port": 29981,
     "version": "1.20.1",
     "try-creative": false
